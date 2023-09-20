@@ -78,7 +78,7 @@ public class ScreenDefinitionService : IScreenDefinitionService
 
 #region Ctors
 
-public ScreenDefinitionService()
+    public ScreenDefinitionService()
     {
     }
 

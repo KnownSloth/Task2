@@ -1,0 +1,34 @@
+{
+	"LineEntries": [
+		{
+			"BackgroundColor": 2,
+			"ForegroundColor": 15,
+			"Text": "Your available choices are:"
+		},
+		{
+			"BackgroundColor": 15,
+			"ForegroundColor": 12,
+			"Text": "0. Exit"
+		},
+		{
+			"BackgroundColor": 5,
+			"ForegroundColor": 15,
+			"Text": "1. Mammals"
+		},
+		{
+			"BackgroundColor": 10,
+			"ForegroundColor": 15,
+			"Text": "2. Save to file"
+		},
+		{
+			"BackgroundColor": 9,
+			"ForegroundColor": 15,
+			"Text": "3. Read from file"
+		},
+		{
+			"BackgroundColor": 0,
+			"ForegroundColor": 15,
+			"Text": "Please enter your choice: "
+		}
+	]
+}

@@ -1,0 +1,39 @@
+{
+	"LineEntries": [
+		{
+			"BackgroundColor": 2,
+			"ForegroundColor": 15,
+			"Text": "Your available choices are:"
+		},
+		{
+			"BackgroundColor": 15,
+			"ForegroundColor": 12,
+			"Text": "0. Exit"
+		},
+		{
+			"BackgroundColor": 8,
+			"ForegroundColor": 0,
+			"Text": "1. List all Dogs"
+		},
+		{
+			"BackgroundColor": 8,
+			"ForegroundColor": 0,
+			"Text": "2. Create a new Dog"
+		},
+		{
+			"BackgroundColor": 8,
+			"ForegroundColor": 0,
+			"Text": "3. Delete existing Dog"
+		},
+		{
+			"BackgroundColor": 8,
+			"ForegroundColor": 0,
+			"Text": "4. Modify existing Dog"
+		},
+		{
+			"BackgroundColor": 0,
+			"ForegroundColor": 15,
+			"Text": "Please enter your choice: "
+		}
+	]
+}
